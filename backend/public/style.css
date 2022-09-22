@@ -1,0 +1,12 @@
+body{
+    background-color: slategray;
+}
+
+.label-banner{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#login-text{
+    text-align: center;
+}
